@@ -1,0 +1,121 @@
+{
+  "cars": [
+    { 
+      "brand": "Audi",
+      "model": "A4",
+      "year": 2022,
+      "engine": "2.0L Turbo",
+      "price": 35000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679021698/audi_zjkicv.png",
+      "id": 1
+    },
+    {
+      "brand": "BMW",
+      "model": "X3",
+      "year": 2021,
+      "engine": "3.0L TwinPower Turbo",
+      "price": 40000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679020466/BMW-X3-M-AC-Schnitzer-2_it3pmx.png",
+      "id": 2
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "Camaro",
+      "year": 2022,
+      "engine": "6.2L V8",
+      "price": 45000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679021820/3UPh-jJkkA_rfcbdl.png",
+      "id": 3
+    },
+    {
+      "brand": "Dodge",
+      "model": "Challenger",
+      "year": 2022,
+      "engine": "6.4L V8",
+      "price": 50000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679022052/OVPmqfZYaQ_em8l2w.png",
+      "id": 4
+    },
+    {
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 2021,
+      "engine": "5.0L V8",
+      "price": 45000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679022189/mustang_xfu1kz.png",
+      "id": 5
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2022,
+      "engine": "1.5L Turbo",
+      "price": 25000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679023138/fW554AP4KGj_wmdvvt.png",
+      "id": 6
+    },
+    {
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "year": 2021,
+      "engine": "3.6L V6",
+      "price": 40000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679022278/jeep_qfyzqt.png",
+      "id": 7
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2022,
+      "engine": "2.0L Turbo",
+      "price": 50000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679022480/c200_sparbg.png",
+      "id": 8
+    },
+    {
+      "brand": "Nissan",
+      "model": "GT-R",
+      "year": 2022,
+      "engine": "3.8L Twin-Turbo V6",
+      "price": 80000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679022667/nissan_nmhl51.png",
+      "id": 9
+    },
+    {
+      "brand": "Ford",
+      "model": "Raptor",
+      "year": 2022,
+      "engine": "3.5L EcoBoost V6",
+      "price": 75000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679022772/raptor_llelhc.png",
+      "id": 10
+    },
+    {
+      "brand": "Audi",
+      "model": "RS7",
+      "year": 2021,
+      "engine": "4.0L Twin-Turbo V8",
+      "price": 105000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679022855/audi_o4s93a.png",
+      "id": 11
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": 2022,
+      "engine": "4.0L Twin-Turbo V8",
+      "price": 125000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679022907/mercedes_w44rwp.png",
+      "id": 12
+    },
+    {
+      "brand": "Dodge",
+      "model": "Charger",
+      "year": 2021,
+      "engine": "6.2L Supercharged V8",
+      "price": 75000,
+      "image": "https://res.cloudinary.com/ddyk63iig/image/upload/v1679022958/ahK_otFWo1_xul2h3.png",
+      "id": 13
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url("https://res.cloudinary.com/ddyk63iig/image/upload/v1679025404/blue-abstract-sharp-flows-4k-vn-1920x1080_mgtzi3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+/* Para navegadores basados en WebKit (Safari, Chrome) */
+::-webkit-scrollbar {
+    width: 10px; /* ancho de la barra de scroll */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #888; /* color del "thumb" (la barra que se arrastra) */
+  }
+  
+  /* Para navegadores basados en Firefox */
+  /* nota: esto solo funciona en Firefox Nightly actualmente */
+  /* puedes omitir esta regla si solo te importan los navegadores basados en WebKit */
+  ::-moz-scrollbar {
+    width: 10px;
+  }
+  
+  ::-moz-scrollbar-thumb {
+    background-color: #888;
+  }
